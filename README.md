@@ -1,4 +1,4 @@
-# Responsive Clock Project
+# Clock Project
 
 ## Overview
 This project is a responsive clock built using HTML, CSS, and JavaScript. The clock displays the current time and adjusts to various screen sizes, providing a seamless experience on both desktop and mobile devices.
